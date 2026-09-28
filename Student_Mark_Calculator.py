@@ -35,6 +35,7 @@ print("Total Marks:",Total_marks)
 print("Percentage:",Percentage)
 print("Grade:",Grade)
 print("Result:",result)
+
 print("----- END OF REPORT -----")
 
 
